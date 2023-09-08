@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="driver-1.35.1">
+    <CLASSES>
+      <root url="jar://E:/A_类库/playwright/driver-1.35.1.jar!/" />
+      <root url="jar://E:/A_类库/playwright/driver-bundle-1.35.1.jar!/" />
+      <root url="jar://E:/A_类库/playwright/gson-2.8.9.jar!/" />
+      <root url="jar://E:/A_类库/playwright/opentest4j-1.2.0.jar!/" />
+      <root url="jar://E:/A_类库/playwright/playwright-1.35.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
