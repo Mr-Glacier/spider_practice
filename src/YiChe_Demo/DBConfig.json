@@ -1,0 +1,24 @@
+{
+  "Parameter": [
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionStr": "jdbc:sqlserver://localhost:1433;",
+      "DBName": "YiChe_0909",
+      "DBUserName": "sa",
+      "DBUserPass": "7777",
+      "EntityPath": "YiChe_Demo.Entity.",
+      "EntityList": [
+        {
+          "EntityName": "BeanBrand",
+          "PrimaryKey": "C_ID",
+          "TableName": "T_YiCheBrand"
+        },
+        {
+          "EntityName": "",
+          "PrimaryKey": "",
+          "TableName": ""
+        }
+      ]
+    }
+  ]
+}
